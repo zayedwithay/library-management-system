@@ -2,21 +2,23 @@
 
 A full-stack Library Management System built with the **MERN** stack to manage books, members, and transactions like issuing and returning books.
 
----
 
 ## 🔧 Tech Stack
 
 - **Frontend:** React.js (with Vite or CRA), React Router DOM, Axios
 - **Backend:** Node.js, Express.js, MongoDB (Mongoose)
-- **Optional:** JSON fallback backend (for mock data), Auth protection
 
----
+
 
 ## 📸 Screenshots
-![home] (/img/Books.png)
-![login]  (img/login.png)
-![dashboard]  (img/Dashboard.png)
-![books]  (img/books.png)
+
+![img](img/home.png)
+![img](img/login.png)
+![img](img/Dashboard.png)
+![img](img/Books.png)
+![img](img/addbook.png)
+
+
 
 
 ## 🚀 Getting Started
