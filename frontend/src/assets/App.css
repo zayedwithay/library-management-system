@@ -1,0 +1,4 @@
+/* Add component-specific or global layout styles here */
+.container {
+  padding-top: 70px; /* Adjust based on Navbar height */
+}
