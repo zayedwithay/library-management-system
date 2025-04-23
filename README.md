@@ -13,7 +13,7 @@ A full-stack Library Management System built with the **MERN** stack to manage b
 ---
 
 ## 📸 Screenshots
-![home] (img/home.png)
+![home] (img/Books.png)
 ![login]  (img/login.png)
 ![dashboard]  (img/Dashboard.png)
 ![books]  (img/books.png)
